@@ -1,9 +1,13 @@
 ##Sears-Palette
 
 *This project was built for the Sears Hackathon (my first hackathon!). It won the Indie Grand Prize and the Apigee Prize.*
+
 [EventBrite Link](https://www.eventbrite.com/e/sears-retail-hackathon-startup-dev-20k-partnership-opportunities-registration-11947783141?utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=eventname)
 
 [Challenge Post Submission](http://sea-sears-challenge.challengepost.com/submissions/38976-sears-palette)
+
+#Demo
+http://deepblue129.github.io/Sears-Palette/
 
 #Preview
 ![Taking a Picture with your phone](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/879/datas/xlarge.png)

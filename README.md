@@ -8,7 +8,7 @@
 ![Taking a Picture with your phone](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/879/datas/xlarge.png)
 ![Front Page of Project](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/841/datas/xlarge.png)
 ![Adding the Picture to the Project](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/828/datas/xlarge.png)
-[Search Results](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/830/datas/xlarge.png)
+![Search Results](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/830/datas/xlarge.png)
 
 #Problem
 Has your wife been passively angry at you? Do you feel unsure? Well, I can't help you.... in most cases. But if you are looking to buy furniture or an appliance soon. My app can help you locate & purchase furniture that fits your home and is aesthetically pleasing. One that will please your significant other.

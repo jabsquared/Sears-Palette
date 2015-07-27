@@ -5,11 +5,13 @@ https://www.eventbrite.com/e/sears-retail-hackathon-startup-dev-20k-partnership-
 http://sea-sears-challenge.challengepost.com/submissions/38976-sears-palette
 
 #Preview
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/879/datas/xlarge.png)
 Format: ![Alt Text](url)
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/841/datas/xlarge.png)
 Format: ![Alt Text](url)
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/828/datas/xlarge.png)
+Format: ![Alt Text](url)
+![GitHub Logo](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/830/datas/xlarge.png)
 Format: ![Alt Text](url)
 
 #Problem

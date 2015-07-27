@@ -12,7 +12,7 @@
 ![Search Results](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/830/datas/xlarge.png)
 
 #Problem
-Has your wife been passively angry at you? :no_good: Do you feel unsure? :running: Well, I can't help you.... in most cases. But if you are looking to buy furniture or an appliance soon. :package: My app can help you locate & purchase furniture that fits your home and is aesthetically pleasing. One that will please your significant other. :+1:
+Has your wife been passively angry at you? :no_good: Do you feel unsure? :bow: Well, I can't help you.... in most cases. But if you are looking to buy furniture or an appliance soon. :package: My app can help you locate & purchase furniture that fits your home and is aesthetically pleasing. One that will please your significant other. :+1:
 
 #Solution
 Presenting Sears Palette! Customers take or upload the picture of any open space outside or inside and my app recommend products that will look GREAT in that space. My goal was to help the user to dream of how space could look with a fitting piece of furniture. Then nudge the customer to purchase a great looking product for their space from sears.

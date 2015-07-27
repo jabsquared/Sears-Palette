@@ -1,18 +1,14 @@
 ##Sears-Palette
 
 *This project was built for the Sears Hackathon (my first hackathon!). It won the Indie Grand Prize and the Apigee Prize.*
-https://www.eventbrite.com/e/sears-retail-hackathon-startup-dev-20k-partnership-opportunities-registration-11947783141?utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=eventname
-http://sea-sears-challenge.challengepost.com/submissions/38976-sears-palette
+[EventBrite Link](https://www.eventbrite.com/e/sears-retail-hackathon-startup-dev-20k-partnership-opportunities-registration-11947783141?utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=eventname)
+[Challenge Post Submission](http://sea-sears-challenge.challengepost.com/submissions/38976-sears-palette)
 
 #Preview
 ![GitHub Logo](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/879/datas/xlarge.png)
-Format: ![Alt Text](url)
 ![GitHub Logo](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/841/datas/xlarge.png)
-Format: ![Alt Text](url)
 ![GitHub Logo](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/828/datas/xlarge.png)
-Format: ![Alt Text](url)
 ![GitHub Logo](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/solution_photos/000/277/830/datas/xlarge.png)
-Format: ![Alt Text](url)
 
 #Problem
 Has your wife been passively angry at you? Do you feel unsure? Well, I can't help you.... in most cases. But if you are looking to buy furniture or an appliance soon. My app can help you locate & purchase furniture that fits your home and is aesthetically pleasing. One that will please your significant other.
